@@ -22,8 +22,8 @@ Here are some dashboards you'll find (or soon will):
 | Dashboard                    | Description                                                  | Status       |
 |-----------------------------|--------------------------------------------------------------|--------------|
 | **Sales Analysis**          | Visualizes sales performance, revenue trends, and regions    | ✅ Completed  |
-| **Customer Feedback**       | Analyzes sentiment and satisfaction from survey data         | 🛠️ In Progress |
-| **Financial Overview**      | Tracks income, expenses, and budget variances                | ✅ Completed  |
+| **Customer Feedback**       | Analyzes sentiment and satisfaction from survey data         | 🔜 Planned   |
+| **Financial Overview**      | Tracks income, expenses, and budget variances                |  🔜 Planned  |
 | **E-commerce Product Trends** | Highlights top products, customer behavior, and conversions | 🔜 Planned    |
 
 *This list will be updated as new dashboards are added.*
