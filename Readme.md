@@ -60,9 +60,9 @@ Feel free to connect or give feedback!
 
 If you have suggestions, feedback, or collaboration ideas:
 
-- 📧 [Your Email]
-- 💼 [LinkedIn Profile]
-- 🐦 [Twitter or X handle] (optional)
+- 📧 [charchitdhawan@gmail.com]
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/charchit-dhawan-902232110/)
+
 
 ---
 
