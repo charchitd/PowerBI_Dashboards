@@ -17,17 +17,7 @@ This repository contains a growing collection of Power BI dashboards. Each folde
 
 ## 📂 Dashboard Projects
 
-Here are some dashboards you'll find (or soon will):
-
-| Dashboard                    | Description                                                  | Status       |
-|-----------------------------|--------------------------------------------------------------|--------------|
-| **Sales Analysis**          | Visualizes sales performance, revenue trends, and regions    | ✅ Completed  |
-| **Customer Feedback**       | Analyzes sentiment and satisfaction from survey data         | 🔜 Planned   |
-| **Financial Overview**      | Tracks income, expenses, and budget variances                |  🔜 Planned  |
-| **E-commerce Product Trends** | Highlights top products, customer behavior, and conversions | 🔜 Planned    |
-
-*This list will be updated as new dashboards are added.*
-
+I aim to hit all the industrial sectors such as Finance, Sales, FinTech, Tech, Health, E-commerce, etc.. and create dynamic Dashboard Projects 
 ---
 
 ## 📌 Key Features
