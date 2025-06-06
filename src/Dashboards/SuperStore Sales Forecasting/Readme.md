@@ -6,7 +6,7 @@ This repository presents an interactive **Power BI dashboard** for analyzing and
 
 ## 🎥 Dashboard Preview
 
-![Dashboard GIF]()
+![Dashboard Preview](SalesForcasting-PowerBI-GIF.gif)
 
 ---
 
