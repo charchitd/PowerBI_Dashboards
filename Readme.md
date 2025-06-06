@@ -16,8 +16,7 @@ This repository contains a growing collection of Power BI dashboards. Each folde
 ---
 
 ## 📂 Dashboard Projects
-
-I aim to hit all the industrial sectors such as Finance, Sales, FinTech, Tech, Health, E-commerce, etc.. and create dynamic Dashboard Projects 
+- I aim to hit all the industrial sectors such as Finance, Sales, FinTech, Tech, Health, E-commerce, etc.. and create dynamic Dashboard Projects 
 ---
 
 ## 📌 Key Features
